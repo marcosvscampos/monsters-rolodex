@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/monsters-holodex/static/css/main.814ce542.chunk.css",
+    "main.js": "/monsters-holodex/static/js/main.0d5c696e.chunk.js",
+    "main.js.map": "/monsters-holodex/static/js/main.0d5c696e.chunk.js.map",
+    "runtime-main.js": "/monsters-holodex/static/js/runtime-main.4be6dc73.js",
+    "runtime-main.js.map": "/monsters-holodex/static/js/runtime-main.4be6dc73.js.map",
+    "static/js/2.7db90bec.chunk.js": "/monsters-holodex/static/js/2.7db90bec.chunk.js",
+    "static/js/2.7db90bec.chunk.js.map": "/monsters-holodex/static/js/2.7db90bec.chunk.js.map",
+    "index.html": "/monsters-holodex/index.html",
+    "precache-manifest.04703a6ff44a1ec3054597865c163740.js": "/monsters-holodex/precache-manifest.04703a6ff44a1ec3054597865c163740.js",
+    "service-worker.js": "/monsters-holodex/service-worker.js",
+    "static/css/main.814ce542.chunk.css.map": "/monsters-holodex/static/css/main.814ce542.chunk.css.map",
+    "static/js/2.7db90bec.chunk.js.LICENSE": "/monsters-holodex/static/js/2.7db90bec.chunk.js.LICENSE",
+    "static/media/App.css": "/monsters-holodex/static/media/BigelowRules-Regular.f1af54fc.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4be6dc73.js",
+    "static/js/2.7db90bec.chunk.js",
+    "static/css/main.814ce542.chunk.css",
+    "static/js/main.0d5c696e.chunk.js"
+  ]
+}
