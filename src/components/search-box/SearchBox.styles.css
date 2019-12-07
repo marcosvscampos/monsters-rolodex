@@ -1,0 +1,8 @@
+.search-input {
+    -webkit-appearance: none;
+    border: 1px solid #b1b1b1;
+    outline: none;
+    padding: 10px 20px;
+    line-height: 30px;
+    margin-bottom: 30px;
+  }
